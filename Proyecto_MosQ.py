@@ -1,1 +1,5 @@
-print("Bienbenido al MOSQ")
+print("Bienbenido al MosQ")
+
+cli = "totoya"
+
+print("El mejor cliente es " + cli)
